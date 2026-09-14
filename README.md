@@ -9,7 +9,7 @@ Weiheng Zeng, Ruoxi Lu, Kun Wang, Tiegang Liu
 
 🤔🤔🤔
 
-The structure of the project is as follows：
+This project is developed based on the source code architecture of Gradient-annihilated PINNs (https://github.com/Netzuel/GA_PINNs_Repository). The structure is as follows:
 
 -- Cases (the definition of solution cases, including exact solutions and flux functions)
 
@@ -71,4 +71,4 @@ To define a new solution case, add a new file under `Cases/` following the struc
 
 🥳🥳🥳
 
-The paper is published on [Jounal of Machine Learning].(https://doi.org/10.4208/jml.251201)
+The paper is published on [Journal of Machine Learning].(https://doi.org/10.4208/jml.251201)
